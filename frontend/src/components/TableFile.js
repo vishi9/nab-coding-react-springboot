@@ -6,23 +6,23 @@ import '../../node_modules/react-bootstrap-table/css/react-bootstrap-table.css'
 
  
  
-class Table extends Component {
+class TableFile extends Component {
   render() {
     return (
       <div className="data-table">
-			<strong>Crypto Currency Profit Calculation</strong>
+			<strong>Crypto Currency Chart</strong>
         <BootstrapTable data={this.props.data}>
-          <TableHeaderColumn isKey dataField='currency'>
+          <TableHeaderColumn isKey dataField='Currency'>
             CURRENCY
           </TableHeaderColumn>
-          <TableHeaderColumn dataField='profit'>
-            PROFIT
+          <TableHeaderColumn dataField='Date'>
+            Date
           </TableHeaderColumn>
-          <TableHeaderColumn dataField='minTs'>
-            Buy Time
+          <TableHeaderColumn dataField='Time'>
+           Time
           </TableHeaderColumn>
-          <TableHeaderColumn dataField='maxTs'>
-            Sell Time
+          <TableHeaderColumn dataField='Price'>
+            Price
           </TableHeaderColumn>
         </BootstrapTable>
       </div>
@@ -30,4 +30,4 @@ class Table extends Component {
   }
 }
  
-export default Table;
+export default TableFile;
