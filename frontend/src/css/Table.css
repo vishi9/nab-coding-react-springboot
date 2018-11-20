@@ -1,0 +1,18 @@
+.Table-header {
+    background-color: #ccc;
+    color: blue;
+    padding: 10px;
+    text-align: left;
+}
+ 
+ 
+.GeorgeMichael-Row {
+    background-color: plum;
+}
+ 
+.Other-Row {
+    background-color: greenyellow;
+}
+
+.data-table{max-width:500px}
+.data-table table{width:100%}

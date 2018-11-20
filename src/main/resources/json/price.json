@@ -1,0 +1,93 @@
+{
+	"price": [{
+			"Currency": "BTC",
+			"Date": "20180507",
+			"Time": 915,
+			"Price": 34.98
+		},
+		{
+			"Currency": "BTC",
+			"Date": "20180507",
+			"Time": 1045,
+			"Price": 36.13
+		},
+		{
+			"Currency": "BTC",
+			"Date": "20180507",
+			"Time": 1230,
+			"Price": 37.01
+		},
+		{
+			"Currency": "BTC",
+			"Date": "20180507",
+			"Time": 1400,
+			"Price": 35.98
+		},
+		{
+			"Currency": "BTC",
+			"Date": "20180507",
+			"Time": 1530,
+			"Price": 33.56
+		},
+		{
+			"Currency": "ETC",
+			"Date": "20180507",
+			"Time": 900,
+			"Price": 1.45
+		},
+		{
+			"Currency": "ETC",
+			"Date": "20180507",
+			"Time": 1030,
+			"Price": 1.87
+		},
+		{
+			"Currency": "ETC",
+			"Date": "20180507",
+			"Time": 1245,
+			"Price": 1.55
+		},
+		{
+			"Currency": "ETC",
+			"Date": "20180507",
+			"Time": 1515,
+			"Price": 2.01
+		},
+		{
+			"Currency": "ETC",
+			"Date": "20180507",
+			"Time": 1700,
+			"Price": 2.15
+		},
+		{
+			"Currency": "LTC",
+			"Date": "20180507",
+			"Time": 930,
+			"Price": 14.32
+		},
+		{
+			"Currency": "LTC",
+			"Date": "20180507",
+			"Time": 1115,
+			"Price": 14.87
+		},
+		{
+			"Currency": "LTC",
+			"Date": "20180507",
+			"Time": 1245,
+			"Price": 15.03
+		},
+		{
+			"Currency": "LTC",
+			"Date": "20180507",
+			"Time": 1400,
+			"Price": 14.76
+		},
+		{
+			"Currency": "LTC",
+			"Date": "20180507",
+			"Time": 1700,
+			"Price": 14.15
+		}
+	]
+}
